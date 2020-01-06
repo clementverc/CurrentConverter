@@ -10,4 +10,4 @@ Execute :
 ## Second : launch Converter
 
 Execute : 
--  $ python convertisseur.py ### to execute code
+-  $ python convertisseur.py
